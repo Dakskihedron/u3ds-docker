@@ -60,7 +60,7 @@ $ docker exec -it -w /home/steam/u3ds u3ds bash
 
 This will allow bash access to the dedicated server in container. The level data, config files, etc for the server can be found under `Servers/[SERVER_ID]`.
 
-For ease of access, it may be preferable to run the image with a [bind mount](#running-the-image) instead, so that the dedicated server can be access directly from the filesystem.
+For ease of access, it may be preferable to run the image with a [bind mount](#running-the-image) instead, so the dedicated server can be access directly from the filesystem.
 
 If you want to learn more about configuring an Unturned dedicated server, check out the official [documentation](https://github.com/SmartlyDressedGames/U3-Docs/blob/master/ServerHosting.md#How-to-Configure-Server). For a list of commands, check this [wiki page](https://wiki.smartlydressedgames.com/wiki/Console_commands).
 

@@ -2,6 +2,9 @@
 
 This Docker image contains a dedicated server for the free-to-play survival game Unturned. This image uses CM2Walki's [steamcmd](https://github.com/CM2Walki/steamcmd) image as a base.
 
+## Source
+The source can be found on [GitHub](https://github.com/Dakskihedron/u3ds-docker).
+
 ## Running the Image
 
 Running on the host interface:
